@@ -1,4 +1,4 @@
-#!/Users/Taina/Desktop/projeto/venv/bin/python
+#!/home/tainaml/Desktop/docdjango/venv/bin/python
 
 import sys
 import getopt

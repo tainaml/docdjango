@@ -1,4 +1,4 @@
-#!/Users/Taina/Desktop/projeto/venv/bin/python3
+#!/home/tainaml/Desktop/docdjango/venv/bin/python3
 from django.core import management
 
 if __name__ == "__main__":
